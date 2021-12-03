@@ -1,2 +1,5 @@
 # hello-world
-This is the first...
+
+My first repository on GitHub
+
+i love ☕ 🍕, and 💃.
